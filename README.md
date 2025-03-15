@@ -1,1 +1,1 @@
-# PrivEsc
+AutoPrivEsc
