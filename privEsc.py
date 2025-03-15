@@ -4195,7 +4195,7 @@ def main():
 ██╔═══╝ ██╔══██╗██║╚██╗ ██╔╝██╔══╝  ╚════██║██║     
 ██║     ██║  ██║██║ ╚████╔╝ ███████╗███████║╚██████╗
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝
-    [+] Tool developed by Ahmad, Rao ali, Umer and Furqan                                                 
+    [+] Tool developed by Ahmad                                                
 
 """)
     if args.verbose:
